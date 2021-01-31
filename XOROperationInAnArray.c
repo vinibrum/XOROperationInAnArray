@@ -1,3 +1,8 @@
+// Source : https://leetcode.com/problems/xor-operation-in-an-array/
+// Author : Vinícius Brum
+// Date   : 31-01-2021
+
+
 #include <stdio.h>
 
 //Given an integer n and an integer start
